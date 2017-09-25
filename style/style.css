@@ -1,0 +1,45 @@
+
+.biggie {
+    background-color: #FFFFFF;
+    color: #002901;
+
+}
+
+/* .spaceme {
+    font-size: 1em;
+    padding: 1em;
+    margin-left: 1em;
+} */
+
+.search-bar {
+margin: 20px;
+text-align: center;
+}
+
+.search-input {
+    min-width: 50vw;
+    outline-style: solid;
+    outline-color: #9E9EBD; 
+    outline-width: 1px;
+    padding: 10px;
+/*     box-shadow: inset 1px 1px 1px 1px lightgray; */
+}
+
+.video-item img {
+
+}
+
+.video-detail .details {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
